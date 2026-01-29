@@ -9,5 +9,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 ---
 
 ## 📝 Daily Log
-1 - **2026-01-27 (Tuesday):** Solved "Summary Ranges" (LeetCode)
+1. 2026-01-27 (Tuesday): Solved "Summary Ranges" (LeetCode)
 ---
