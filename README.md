@@ -10,5 +10,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 
 ## 📝 Daily Log
 1. 2026-01-27 (Tuesday): [LeetCode: Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) -> [Solution](summary_ranges.py)
-2. 1. 2026-01-31 (Saturday): [Hackerrank: Zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) -> [Solution](zipped.py)
+2. 2026-01-31 (Saturday): [Hackerrank: Zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) -> [Solution](zipped.py)
 ---
