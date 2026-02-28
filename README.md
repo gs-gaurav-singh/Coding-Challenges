@@ -14,5 +14,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 3. 2026-02-08 (Sunday): [LeetCode: Third Maximum Number](https://leetcode.com/problems/third-maximum-number/submissions/1912542256/?envType=problem-list-v2&envId=array) -> [Solution](third_max_number.py)
 4. 2026-02-12 (Thrusday): [LeetCode: Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?q=Two-Dimensional+Arrays) -> [Solution](find_the_difference_of_two_arrays.py)
 5. 2026-02-17 (Tuesday): [LeetCode: Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/?q=Two-Dimensional+Arrays) -> [Solution](find_the_difference_of_two_arrays.py)
-6. 2026-02-18 (Saturday): [LeetCode: Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) -> [Solution](search_2d_matrix_brute_force.py)
+6. 2026-02-18 (Saturday): [LeetCode: Search a 2D Matrix Brute Force](https://leetcode.com/problems/search-a-2d-matrix/description/) -> [Solution](search_2d_matrix_brute_force.py)
 ---
