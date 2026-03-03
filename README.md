@@ -15,5 +15,6 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 4. 2026-02-12 (Thrusday): [LeetCode: Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?q=Two-Dimensional+Arrays) -> [Solution](find_the_difference_of_two_arrays.py)
 5. 2026-02-17 (Tuesday): [LeetCode: Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/?q=Two-Dimensional+Arrays) -> [Solution](find_the_difference_of_two_arrays.py)
 6. 2026-02-28 (Saturday): [LeetCode: Search a 2D Matrix Brute Force](https://leetcode.com/problems/search-a-2d-matrix/description/) -> [Solution](search_2d_matrix_brute_force.py)
-7. 2026-03-03 (Tuesday): [LeetCode: Rotate Image](https://leetcode.com/problems/rotate-image/description/) -> [Solution](rotate_image.py) 
+7. 2026-03-03 (Tuesday): [LeetCode: Rotate Image](https://leetcode.com/problems/rotate-image/description/) -> [Solution](rotate_image.py)
+8. 2026-03-04 (Wednesday): [LeetCode: Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) -> [Solution](transpose_matrix.py)
 ---
