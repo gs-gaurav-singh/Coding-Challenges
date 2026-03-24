@@ -19,4 +19,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 8. 2026-03-04 (Wednesday): [LeetCode: Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) -> [Solution](transpose_matrix.py)
 9. 2026-03-19 (Thrusday): [LeetCode: Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) -> [Solution](assign_cookies.py)
 10. 2026-03-24 (Monday): [LeetCode: Remove Duplicates from Sorted Array](https://github.com/gs-gaurav-singh/Coding-Challenges) -> [Solution](remove_dublicates_from_sorted_array.py)
+11. 2026-03-24 (Monday): [LeetCode: Remove Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](valid_palindrome.py)
 ---
