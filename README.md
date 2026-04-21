@@ -21,6 +21,7 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 10. 2026-03-24 (Monday): [LeetCode: Remove Duplicates from Sorted Array](https://github.com/gs-gaurav-singh/Coding-Challenges) -> [Solution](remove_dublicates_from_sorted_array.py)
 11. 2026-03-24 (Monday): [LeetCode: Remove Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](valid_palindrome.py)
 12. 2026-03-25 (Monday): [LeetCode: Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](reverse_vowels_of_a_string.py)
-13. 2026-03-28 (Saturday): [LeetCode:Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](is_subsequence.py)
-14. 2026-04-20 (Monday): [LeetCodeTwo Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](two_sums.py)
+13. 2026-03-28 (Saturday): [LeetCode: Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](is_subsequence.py)
+14. 2026-04-20 (Monday): [LeetCode: Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](two_sums.py)
+15. 2026-04-22 (Wednesday): [LeetCode: Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](roman_to_integer.py)
 ---
