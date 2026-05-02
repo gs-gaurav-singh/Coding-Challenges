@@ -25,4 +25,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 14. 2026-04-20 (Monday): [LeetCode: Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](two_sums.py)
 15. 2026-04-22 (Wednesday): [LeetCode: Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](roman_to_integer.py)
 16.  2026-04-30 (Thrusday): [LeetCode: Happy Number](https://leetcode.com/problems/happy-number/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](happy_numbers.py)
+17.  2026-05-02 (Saturday): [LeetCode: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](isomorphic_strings.py)
 ---
