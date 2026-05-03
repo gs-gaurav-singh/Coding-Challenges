@@ -28,4 +28,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 17. 2026-05-02 (Saturday): [LeetCode: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](isomorphic_strings.py)
 18. 2026-05-02 (Saturday): [LeetCode: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](contains_duplicate.py)
 19. 2026-05-02 (Saturday): [LeetCode: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](valid_anagram.py)
+20. 2026-05-03 (Sunday): [LeetCode: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](group_anagram.py)
 ---
