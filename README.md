@@ -17,11 +17,13 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 6. 2026-02-28 (Saturday): [LeetCode: Search a 2D Matrix Brute Force](https://leetcode.com/problems/search-a-2d-matrix/description/) -> [Solution](search_2d_matrix_brute_force.py)
 7. 2026-03-03 (Tuesday): [LeetCode: Rotate Image](https://leetcode.com/problems/rotate-image/description/) -> [Solution](rotate_image.py)
 8. 2026-03-04 (Wednesday): [LeetCode: Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) -> [Solution](transpose_matrix.py)
-9. 2026-03-19 (Thrusday): [LeetCode: Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) -> [Solution](assign_cookies.py)
-10. 2026-03-24 (Monday): [LeetCode: Remove Duplicates from Sorted Array](https://github.com/gs-gaurav-singh/Coding-Challenges) -> [Solution](remove_dublicates_from_sorted_array.py)
-11. 2026-03-24 (Monday): [LeetCode: Remove Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](valid_palindrome.py)
-12. 2026-03-25 (Monday): [LeetCode: Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](reverse_vowels_of_a_string.py)
-13. 2026-03-28 (Saturday): [LeetCode: Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](is_subsequence.py)
+
+# TWO POINTERS
+10. 2026-03-19 (Thrusday): [LeetCode: Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) -> [Solution](assign_cookies.py)
+11. 2026-03-24 (Monday): [LeetCode: Remove Duplicates from Sorted Array](https://github.com/gs-gaurav-singh/Coding-Challenges) -> [Solution](remove_dublicates_from_sorted_array.py)
+12. 2026-03-24 (Monday): [LeetCode: Remove Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](valid_palindrome.py)
+13. 2026-03-25 (Monday): [LeetCode: Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](reverse_vowels_of_a_string.py)
+14. 2026-03-28 (Saturday): [LeetCode: Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=problem-list-v2&envId=two-pointers) -> [Solution](is_subsequence.py)
 
 # HASH MAP QUESTIONS
 15. 2026-04-20 (Monday): [LeetCode: Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](two_sums.py)
