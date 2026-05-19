@@ -30,5 +30,8 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 19. 2026-05-02 (Saturday): [LeetCode: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](valid_anagram.py)
 20. 2026-05-03 (Sunday): [LeetCode: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=hash-table) -> [Solution](group_anagram.py)
 21. 2026-05-03 (Sunday): [LeetCode:Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?source=submission-noace) -> [Solution](longest_consecutive_sequence.py)
-22. 2026-05-18 (Monday): [LeetCode:Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](defuse_the_bomb.py)
+
+# SLIDING WINDOW QUESTIONS
+23. 2026-05-18 (Monday): [LeetCode:Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](defuse_the_bomb.py)
+24. 2026-05-19 (Tuesday): [LeetCode:Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](maximum_average_subarray_1.py)
 ---
