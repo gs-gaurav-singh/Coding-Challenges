@@ -39,4 +39,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 23. 2026-05-18 (Monday): [LeetCode:Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](defuse_the_bomb.py)
 24. 2026-05-19 (Tuesday): [LeetCode:Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](maximum_average_subarray_1.py)
 25. 2026-05-20 (Wednesday): [LeetCode:Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](minimum_size_subarray_sum.py)
+26. 2026-05-23 (Saturday): [LeetCode:Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
 ---
