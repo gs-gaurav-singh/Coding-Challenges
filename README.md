@@ -41,4 +41,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 25. 2026-05-20 (Wednesday): [LeetCode:Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](minimum_size_subarray_sum.py)
 26. 2026-05-23 (Saturday): [LeetCode:Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
 27. 2026-05-25 (Monday): [LeetCode:Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](permutation_in_string.py)
+28. 2026-05-25 (Monday): [LeetCode:Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](max_consecutive_ones_III.py)
 ---
