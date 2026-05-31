@@ -40,6 +40,7 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 24. 2026-05-19 (Tuesday): [LeetCode:Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](maximum_average_subarray_1.py)
 25. 2026-05-20 (Wednesday): [LeetCode:Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](minimum_size_subarray_sum.py)
 26. 2026-05-23 (Saturday): [LeetCode:Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
-27. 2026-05-25 (Monday): [LeetCode:Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](permutation_in_string.py)
-28. 2026-05-25 (Wednesday): [LeetCode:Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](max_consecutive_ones_III.py)
+27. 2026-05-31 (Sunday): [LeetCode:Find All Anagrams in a String](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
+28. 2026-05-25 (Monday): [LeetCode:Permutation in String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](permutation_in_string.py)
+29. 2026-05-25 (Wednesday): [LeetCode:Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](max_consecutive_ones_III.py)
 ---
