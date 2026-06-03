@@ -42,5 +42,6 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 26. 2026-05-23 (Saturday): [LeetCode:Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
 27. 2026-05-31 (Sunday): [LeetCode:Find All Anagrams in a String](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_substring_without_repeating_characters.py)
 28. 2026-05-25 (Monday): [LeetCode:Permutation in String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](permutation_in_string.py)
-29. 2026-05-25 (Wednesday): [LeetCode:Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](max_consecutive_ones_III.py)
+29. 2026-05-27 (Wednesday): [LeetCode:Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=sliding-window) -> [Solution](max_consecutive_ones_III.py)
+30. 2026-06-03 (Wednesday): [LeetCode:Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/?envType=problem-list-v2&envId=sliding-window) -> [Solution](longest_repeating_character_replacement.py)
 ---
