@@ -48,4 +48,5 @@ My personal archive of solved LeetCode and HackerRank challenges, showcasing pro
 # Binary Search
 31. 2026-06-08 (Monday): [LeetCode:Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=binary-search) -> [Solution](binary_search.py)
 32. 2026-06-03 (Wednesday): [LeetCode:Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search) -> [Solution](search_insert_position.py)
+33. 2026-06-11 (Thrusday): [LeetCode: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=binary-search) -> [Solution](find_minimum_in_rotated_sorted_array.py)
 ---
